@@ -1,0 +1,51 @@
+{
+ "plans_total": 270,
+ "plans_accepted_pct": 66.66666666666666,
+ "plans_modified_pct": 25.185185185185183,
+ "plans_rejected_pct": 8.148148148148149,
+ "override_reason_student preference": 32,
+ "override_reason_contextual information not available to the algorithm": 31,
+ "override_reason_risk judgement": 18,
+ "override_reason_feasibility/workload": 9,
+ "review_min_median": 8.2,
+ "override_by_tier": {
+  "elevated": 47.6,
+  "moderate": 30.7
+ },
+ "override_by_week": {
+  "0": 28.9,
+  "4": 32.2,
+  "8": 38.9
+ },
+ "counsellor_override_range": [
+  14.8,
+  59.3
+ ],
+ "practice_per_week_median": 2.4166666666666665,
+ "practice_per_week_iqr": [
+  0.5208333333333334,
+  7.020833333333333
+ ],
+ "peer_sessions_median": 0.0,
+ "engaged_pct": 72.22222222222221,
+ "counsellor_min_int_median": 20.548005652055082,
+ "counsellor_min_ctrl_median": 6.022512089071409,
+ "csq_int": [
+  26.365853658536587,
+  4.877542882529315
+ ],
+ "csq_ctrl": [
+  23.410958904109588,
+  4.657239336173178
+ ],
+ "referred_int": 5,
+ "referred_ctrl": 2,
+ "counsellor_trust": [
+  3.53,
+  0.44981477669517855
+ ],
+ "counsellor_intention": [
+  4.1899999999999995,
+  0.3034981237357343
+ ]
+}

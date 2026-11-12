@@ -1,0 +1,34 @@
+{
+ "caseload_total": 4000,
+ "counsellors_assessed": 23,
+ "counsellors_excluded_leave": 2,
+ "counsellors_excluded_declined": 1,
+ "screened": 3422,
+ "eligible": 847,
+ "approached": 485,
+ "declined": 283,
+ "not_reached": 22,
+ "excluded_high_risk": 288,
+ "randomised_students": 180,
+ "counsellors_needing_wave2": 0,
+ "by_arm": {
+  "0": {
+   "caseload": 2000,
+   "screened": 1697,
+   "excluded_high_risk": 149,
+   "eligible": 431,
+   "approached": 243,
+   "declined": 146,
+   "not_reached": 7
+  },
+  "1": {
+   "caseload": 2000,
+   "screened": 1725,
+   "excluded_high_risk": 139,
+   "eligible": 416,
+   "approached": 242,
+   "declined": 137,
+   "not_reached": 15
+  }
+ }
+}

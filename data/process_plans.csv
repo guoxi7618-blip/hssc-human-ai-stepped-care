@@ -1,0 +1,271 @@
+sid,counsellor,week,tier,decision,reason,review_min
+S010,2,0,moderate,accepted,,9.8
+S010,2,4,moderate,accepted,,7.0
+S010,2,8,moderate,accepted,,6.5
+S011,2,0,moderate,accepted,,6.5
+S011,2,4,moderate,accepted,,6.5
+S011,2,8,moderate,accepted,,7.0
+S012,2,0,moderate,modified,risk judgement,9.5
+S012,2,4,moderate,accepted,,8.2
+S012,2,8,moderate,modified,contextual information not available to the algorithm,15.8
+S013,2,0,moderate,accepted,,7.4
+S013,2,4,moderate,modified,student preference,17.1
+S013,2,8,moderate,accepted,,4.9
+S014,2,0,moderate,accepted,,4.5
+S014,2,4,moderate,accepted,,5.0
+S014,2,8,moderate,accepted,,7.1
+S015,2,0,moderate,accepted,,5.1
+S015,2,4,moderate,accepted,,7.1
+S015,2,8,moderate,rejected,risk judgement,13.3
+S016,2,0,moderate,modified,contextual information not available to the algorithm,13.9
+S016,2,4,moderate,accepted,,7.6
+S016,2,8,moderate,accepted,,7.5
+S017,2,0,moderate,accepted,,5.6
+S017,2,4,moderate,modified,student preference,15.8
+S017,2,8,moderate,accepted,,8.6
+S018,2,0,moderate,accepted,,11.1
+S018,2,4,moderate,rejected,contextual information not available to the algorithm,21.2
+S018,2,8,moderate,accepted,,6.4
+S019,3,0,elevated,accepted,,5.1
+S019,3,4,elevated,rejected,student preference,9.8
+S019,3,8,elevated,modified,contextual information not available to the algorithm,11.2
+S020,3,0,moderate,modified,student preference,9.3
+S020,3,4,moderate,accepted,,5.2
+S020,3,8,moderate,modified,student preference,12.8
+S021,3,0,moderate,accepted,,4.9
+S021,3,4,moderate,accepted,,7.2
+S021,3,8,moderate,accepted,,12.3
+S022,3,0,moderate,accepted,,6.2
+S022,3,4,moderate,accepted,,7.4
+S022,3,8,moderate,accepted,,5.1
+S023,3,0,moderate,accepted,,6.8
+S023,3,4,moderate,accepted,,6.4
+S023,3,8,moderate,accepted,,5.3
+S024,3,0,moderate,accepted,,6.9
+S024,3,4,moderate,accepted,,9.8
+S024,3,8,moderate,accepted,,6.8
+S025,3,0,moderate,accepted,,4.7
+S025,3,4,moderate,accepted,,8.5
+S025,3,8,moderate,rejected,contextual information not available to the algorithm,27.7
+S026,3,0,elevated,accepted,,7.3
+S026,3,4,elevated,modified,student preference,15.5
+S026,3,8,elevated,modified,contextual information not available to the algorithm,13.2
+S027,3,0,moderate,accepted,,7.6
+S027,3,4,moderate,accepted,,6.3
+S027,3,8,moderate,modified,contextual information not available to the algorithm,7.7
+S028,4,0,moderate,accepted,,4.7
+S028,4,4,moderate,modified,student preference,8.1
+S028,4,8,moderate,accepted,,11.6
+S029,4,0,moderate,modified,contextual information not available to the algorithm,18.1
+S029,4,4,moderate,modified,student preference,10.6
+S029,4,8,moderate,modified,student preference,11.5
+S030,4,0,moderate,accepted,,8.5
+S030,4,4,moderate,accepted,,9.8
+S030,4,8,moderate,rejected,risk judgement,22.3
+S031,4,0,moderate,modified,student preference,14.0
+S031,4,4,moderate,accepted,,5.9
+S031,4,8,moderate,accepted,,5.9
+S032,4,0,elevated,accepted,,4.9
+S032,4,4,elevated,accepted,,6.0
+S032,4,8,elevated,modified,student preference,16.4
+S033,4,0,moderate,accepted,,13.7
+S033,4,4,moderate,accepted,,7.9
+S033,4,8,moderate,modified,contextual information not available to the algorithm,9.6
+S034,4,0,moderate,modified,feasibility/workload,13.0
+S034,4,4,moderate,accepted,,8.4
+S034,4,8,moderate,rejected,contextual information not available to the algorithm,18.0
+S035,4,0,moderate,modified,contextual information not available to the algorithm,10.9
+S035,4,4,moderate,accepted,,4.8
+S035,4,8,moderate,accepted,,5.2
+S036,4,0,elevated,accepted,,4.6
+S036,4,4,elevated,modified,contextual information not available to the algorithm,15.9
+S036,4,8,elevated,accepted,,7.0
+S064,8,0,moderate,accepted,,7.6
+S064,8,4,moderate,rejected,student preference,17.8
+S064,8,8,moderate,accepted,,5.0
+S065,8,0,moderate,accepted,,9.6
+S065,8,4,moderate,accepted,,9.9
+S065,8,8,moderate,accepted,,6.4
+S066,8,0,moderate,accepted,,7.2
+S066,8,4,moderate,modified,student preference,11.0
+S066,8,8,moderate,accepted,,9.2
+S067,8,0,moderate,accepted,,5.6
+S067,8,4,moderate,accepted,,6.5
+S067,8,8,moderate,modified,contextual information not available to the algorithm,19.0
+S068,8,0,elevated,accepted,,8.1
+S068,8,4,elevated,accepted,,7.4
+S068,8,8,elevated,accepted,,5.2
+S069,8,0,moderate,modified,risk judgement,9.2
+S069,8,4,moderate,accepted,,5.0
+S069,8,8,moderate,accepted,,5.2
+S070,8,0,moderate,accepted,,6.1
+S070,8,4,moderate,accepted,,8.9
+S070,8,8,moderate,modified,contextual information not available to the algorithm,12.9
+S071,8,0,elevated,accepted,,6.5
+S071,8,4,elevated,accepted,,10.0
+S071,8,8,elevated,modified,student preference,7.9
+S072,8,0,moderate,accepted,,10.0
+S072,8,4,moderate,accepted,,2.6
+S072,8,8,moderate,accepted,,5.4
+S100,12,0,moderate,accepted,,6.8
+S100,12,4,moderate,accepted,,6.8
+S100,12,8,moderate,accepted,,5.9
+S101,12,0,moderate,accepted,,5.7
+S101,12,4,moderate,accepted,,5.1
+S101,12,8,moderate,accepted,,3.8
+S102,12,0,moderate,accepted,,6.1
+S102,12,4,moderate,modified,feasibility/workload,13.1
+S102,12,8,moderate,accepted,,8.7
+S103,12,0,moderate,accepted,,7.2
+S103,12,4,moderate,accepted,,6.5
+S103,12,8,moderate,accepted,,8.6
+S104,12,0,moderate,accepted,,8.2
+S104,12,4,moderate,accepted,,9.8
+S104,12,8,moderate,modified,student preference,15.7
+S105,12,0,moderate,modified,risk judgement,11.9
+S105,12,4,moderate,accepted,,5.2
+S105,12,8,moderate,modified,contextual information not available to the algorithm,10.9
+S106,12,0,moderate,accepted,,8.2
+S106,12,4,moderate,accepted,,7.0
+S106,12,8,moderate,modified,student preference,19.5
+S107,12,0,moderate,accepted,,4.8
+S107,12,4,moderate,accepted,,8.5
+S107,12,8,moderate,accepted,,9.8
+S108,12,0,moderate,accepted,,7.9
+S108,12,4,moderate,accepted,,8.2
+S108,12,8,moderate,modified,feasibility/workload,13.6
+S136,16,0,moderate,accepted,,11.0
+S136,16,4,moderate,accepted,,7.0
+S136,16,8,moderate,accepted,,6.8
+S137,16,0,moderate,modified,student preference,11.4
+S137,16,4,moderate,accepted,,10.8
+S137,16,8,moderate,modified,contextual information not available to the algorithm,8.4
+S138,16,0,elevated,rejected,feasibility/workload,19.7
+S138,16,4,elevated,modified,contextual information not available to the algorithm,14.0
+S138,16,8,elevated,accepted,,4.8
+S139,16,0,moderate,rejected,feasibility/workload,15.1
+S139,16,4,moderate,modified,contextual information not available to the algorithm,11.0
+S139,16,8,moderate,accepted,,8.2
+S140,16,0,moderate,accepted,,12.0
+S140,16,4,moderate,modified,student preference,19.9
+S140,16,8,moderate,modified,contextual information not available to the algorithm,21.7
+S141,16,0,moderate,modified,contextual information not available to the algorithm,17.8
+S141,16,4,moderate,rejected,student preference,15.7
+S141,16,8,moderate,modified,risk judgement,22.5
+S142,16,0,moderate,accepted,,5.8
+S142,16,4,moderate,modified,student preference,20.7
+S142,16,8,moderate,accepted,,5.3
+S143,16,0,moderate,rejected,risk judgement,17.5
+S143,16,4,moderate,modified,risk judgement,16.7
+S143,16,8,moderate,modified,risk judgement,10.9
+S144,16,0,moderate,modified,contextual information not available to the algorithm,14.7
+S144,16,4,moderate,accepted,,8.7
+S144,16,8,moderate,accepted,,8.7
+S145,17,0,elevated,accepted,,7.1
+S145,17,4,elevated,rejected,student preference,17.3
+S145,17,8,elevated,rejected,risk judgement,18.7
+S146,17,0,elevated,modified,risk judgement,21.5
+S146,17,4,elevated,rejected,risk judgement,13.9
+S146,17,8,elevated,accepted,,9.2
+S147,17,0,moderate,modified,contextual information not available to the algorithm,22.8
+S147,17,4,moderate,rejected,student preference,13.7
+S147,17,8,moderate,accepted,,8.4
+S148,17,0,moderate,accepted,,6.3
+S148,17,4,moderate,accepted,,8.4
+S148,17,8,moderate,modified,student preference,11.2
+S149,17,0,moderate,accepted,,9.5
+S149,17,4,moderate,modified,feasibility/workload,18.1
+S149,17,8,moderate,accepted,,5.6
+S150,17,0,elevated,rejected,student preference,14.5
+S150,17,4,elevated,rejected,student preference,13.4
+S150,17,8,elevated,accepted,,7.5
+S151,17,0,elevated,modified,contextual information not available to the algorithm,12.6
+S151,17,4,elevated,modified,contextual information not available to the algorithm,15.4
+S151,17,8,elevated,accepted,,7.4
+S152,17,0,elevated,accepted,,4.8
+S152,17,4,elevated,modified,feasibility/workload,30.1
+S152,17,8,elevated,modified,contextual information not available to the algorithm,15.3
+S153,17,0,moderate,accepted,,7.8
+S153,17,4,moderate,accepted,,7.1
+S153,17,8,moderate,rejected,risk judgement,12.2
+S154,18,0,moderate,accepted,,4.6
+S154,18,4,moderate,modified,risk judgement,9.8
+S154,18,8,moderate,accepted,,4.0
+S155,18,0,moderate,modified,student preference,10.7
+S155,18,4,moderate,accepted,,5.7
+S155,18,8,moderate,accepted,,5.9
+S156,18,0,moderate,accepted,,9.2
+S156,18,4,moderate,accepted,,4.5
+S156,18,8,moderate,modified,student preference,12.3
+S157,18,0,moderate,accepted,,7.6
+S157,18,4,moderate,accepted,,7.1
+S157,18,8,moderate,rejected,contextual information not available to the algorithm,10.4
+S158,18,0,moderate,accepted,,9.4
+S158,18,4,moderate,accepted,,5.0
+S158,18,8,moderate,accepted,,5.6
+S159,18,0,moderate,modified,feasibility/workload,11.2
+S159,18,4,moderate,accepted,,6.8
+S159,18,8,moderate,modified,risk judgement,17.1
+S160,18,0,moderate,accepted,,14.7
+S160,18,4,moderate,accepted,,4.9
+S160,18,8,moderate,accepted,,4.0
+S161,18,0,moderate,modified,student preference,10.4
+S161,18,4,moderate,rejected,student preference,12.1
+S161,18,8,moderate,rejected,student preference,16.4
+S162,18,0,moderate,accepted,,7.9
+S162,18,4,moderate,accepted,,6.2
+S162,18,8,moderate,accepted,,7.5
+S163,19,0,moderate,accepted,,6.9
+S163,19,4,moderate,modified,student preference,20.7
+S163,19,8,moderate,accepted,,13.2
+S164,19,0,moderate,accepted,,12.9
+S164,19,4,moderate,accepted,,4.9
+S164,19,8,moderate,accepted,,10.4
+S165,19,0,moderate,accepted,,5.4
+S165,19,4,moderate,accepted,,5.3
+S165,19,8,moderate,accepted,,6.6
+S166,19,0,moderate,accepted,,7.0
+S166,19,4,moderate,accepted,,7.6
+S166,19,8,moderate,modified,risk judgement,17.5
+S167,19,0,elevated,modified,student preference,10.7
+S167,19,4,elevated,accepted,,7.8
+S167,19,8,elevated,accepted,,6.9
+S168,19,0,moderate,modified,contextual information not available to the algorithm,12.4
+S168,19,4,moderate,modified,feasibility/workload,11.9
+S168,19,8,moderate,accepted,,4.4
+S169,19,0,moderate,modified,contextual information not available to the algorithm,14.1
+S169,19,4,moderate,accepted,,6.9
+S169,19,8,moderate,accepted,,7.8
+S170,19,0,moderate,accepted,,5.0
+S170,19,4,moderate,accepted,,5.3
+S170,19,8,moderate,modified,contextual information not available to the algorithm,17.1
+S171,19,0,moderate,accepted,,6.5
+S171,19,4,moderate,accepted,,7.0
+S171,19,8,moderate,accepted,,5.6
+S172,20,0,moderate,accepted,,8.5
+S172,20,4,moderate,accepted,,7.7
+S172,20,8,moderate,accepted,,7.3
+S173,20,0,elevated,accepted,,6.7
+S173,20,4,elevated,accepted,,4.6
+S173,20,8,elevated,accepted,,5.2
+S174,20,0,moderate,accepted,,5.0
+S174,20,4,moderate,accepted,,13.9
+S174,20,8,moderate,modified,contextual information not available to the algorithm,9.3
+S175,20,0,moderate,accepted,,7.4
+S175,20,4,moderate,accepted,,8.1
+S175,20,8,moderate,accepted,,8.0
+S176,20,0,moderate,accepted,,9.2
+S176,20,4,moderate,accepted,,10.7
+S176,20,8,moderate,accepted,,4.1
+S177,20,0,moderate,accepted,,9.1
+S177,20,4,moderate,accepted,,6.2
+S177,20,8,moderate,accepted,,6.6
+S178,20,0,moderate,accepted,,5.7
+S178,20,4,moderate,accepted,,7.5
+S178,20,8,moderate,modified,risk judgement,12.7
+S179,20,0,moderate,accepted,,5.9
+S179,20,4,moderate,modified,risk judgement,8.4
+S179,20,8,moderate,accepted,,11.8
+S180,20,0,moderate,rejected,contextual information not available to the algorithm,20.6
+S180,20,4,moderate,accepted,,7.0
+S180,20,8,moderate,accepted,,8.4

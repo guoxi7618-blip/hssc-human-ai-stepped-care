@@ -17,7 +17,6 @@ imp = json.load(open(R + "h3_implementation.json")); proc = pd.read_csv(R + "h3_
 
 
 def plab(ax, s, x=-0.18, y=1.06): ax.text(x, y, s, transform=ax.transAxes, fontsize=8.5, fontweight="bold", va="bottom")
-def mark(fig): fig.text(0.995, 0.004, " — analysis template, not trial results", ha="right", va="bottom", fontsize=5.5, color="#B00020", style="italic")
 def save(fig, name): fig.savefig(F + name + ".pdf", bbox_inches="tight"); fig.savefig(F + name + ".png", bbox_inches="tight", dpi=600); plt.close(fig)
 
 
